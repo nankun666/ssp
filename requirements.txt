@@ -1,0 +1,7 @@
+yfinance
+requests
+pandas
+pyspark
+vaderSentiment
+matplotlib
+nltk
